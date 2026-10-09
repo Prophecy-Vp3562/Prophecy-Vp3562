@@ -111,7 +111,17 @@ Full-stack application featuring multi-tier decoy vaults, event auditing, and lo
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Prophecy-Vp3562&theme=github-compact&hide_border=true&area=true" alt="GitHub activity graph" />
 
+<div align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Prophecy-Vp3562&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Prophecy-Vp3562&theme=github_dark&hide_border=true" alt="GitHub Streak" />
+
+<br/><br/>
+
+<!--
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prophecy-Vp3562&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+
 </div>
+-->
 
 # 🌐 Find Me Elsewhere
 
