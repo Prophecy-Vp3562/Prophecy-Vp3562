@@ -107,9 +107,9 @@ Full-stack application featuring multi-tier decoy vaults, event auditing, and lo
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=github_dark" alt="GitHub contribution summary" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prophecy-Vp3562&theme=github_dark" alt="GitHub contribution summary" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact&hide_border=true&area=true" alt="GitHub activity graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Prophecy-Vp3562&theme=github-compact&hide_border=true&area=true" alt="GitHub activity graph" />
 
 </div>
 
@@ -117,7 +117,7 @@ Full-stack application featuring multi-tier decoy vaults, event auditing, and lo
 
 <div align="center">
 
-[**LinkedIn**](https://linkedin.com/in/your-linkedin-username) · [**Google Developer Profile**](https://g.dev/VedantPatilAiDev) · [**Email**](mailto:your.email@example.com)
+[**LinkedIn**](https://www.linkedin.com/in/vedant-patil-dev05/) · [**Google Developer Profile**](https://g.dev/VedantPatilAiDev) · [**Email**](mailto:your.email@example.com)
 
 <br/>
 
